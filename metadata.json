@@ -1,0 +1,6 @@
+{
+  "name": "Mistik Şaman",
+  "description": "Yapay zeka destekli mistik kahve falı, tarot ve astroloji rehberiniz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
